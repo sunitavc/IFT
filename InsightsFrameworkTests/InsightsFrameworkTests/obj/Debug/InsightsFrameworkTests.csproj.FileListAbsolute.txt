@@ -1,0 +1,10 @@
+E:\Projects\mso\InsightsFrameworkTests\InsightsFrameworkTests\bin\Debug\InsightsFrameworkTests.dll.config
+E:\Projects\mso\InsightsFrameworkTests\InsightsFrameworkTests\bin\Debug\InsightsFrameworkTests.dll
+E:\Projects\mso\InsightsFrameworkTests\InsightsFrameworkTests\bin\Debug\InsightsFrameworkTests.pdb
+E:\Projects\mso\InsightsFrameworkTests\InsightsFrameworkTests\bin\Debug\nunit.framework.dll
+E:\Projects\mso\InsightsFrameworkTests\InsightsFrameworkTests\bin\Debug\Should.dll
+E:\Projects\mso\InsightsFrameworkTests\InsightsFrameworkTests\bin\Debug\TechTalk.SpecFlow.dll
+E:\Projects\mso\InsightsFrameworkTests\InsightsFrameworkTests\bin\Debug\nunit.framework.xml
+E:\Projects\mso\InsightsFrameworkTests\InsightsFrameworkTests\obj\Debug\InsightsFrameworkTests.dll
+E:\Projects\mso\InsightsFrameworkTests\InsightsFrameworkTests\obj\Debug\InsightsFrameworkTests.pdb
+E:\Projects\mso\InsightsFrameworkTests\InsightsFrameworkTests\obj\Debug\InsightsFrameworkTests.csprojResolveAssemblyReference.cache
